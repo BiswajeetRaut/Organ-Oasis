@@ -1,6 +1,7 @@
-Organ-Oasis is a organ donating website where people can login or signup and after authentication there are several options: available organs, donate organ, request organ, accept/reject organ. The project is made by using React js and Firebase Baas. The UI is inspired from : https://www.figma.com/file/EUSha12EmtWu7JVGJuN0TD/lif-E-line?node-id=175-2&t=4ObNRmBJQqOf1aiq-0.
+Organ-Oasis is a organ donating website where people can login or signup and after authentication there are several options: available organs, donate organ, request organ, accept/reject organ. The project is made by using React js and Firebase Baas. 
+The UI is inspired from : https://www.figma.com/file/EUSha12EmtWu7JVGJuN0TD/lif-E-line?node-id=175-2&t=4ObNRmBJQqOf1aiq-0.
 
-## Available Scripts
+## How to Run The Project
 
 In the project directory, you can run:
 
